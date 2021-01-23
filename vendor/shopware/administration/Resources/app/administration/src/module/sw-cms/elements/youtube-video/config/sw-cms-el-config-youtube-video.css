@@ -1,0 +1,22 @@
+.sw-cms-el-config-youtube-video__switches {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  -ms-grid-rows: 32px 32px;
+      grid-template-rows: 32px 32px;
+  grid-column-gap: 32px;
+}
+
+.sw-cms-el-config-youtube-video__switches .sw-field--switch {
+  margin-top: 0;
+}
+
+.sw-cms-el-config-youtube-video__start-and-end {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+  grid-column-gap: 32px;
+}
+/*# sourceMappingURL=sw-cms-el-config-youtube-video.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACA,AAEI,SAFK,AAAA,iBAAiB,CAEtB,KAAK,CAAA,AAAA,IAAC,CAAK,QAAQ,AAAb,CAAc,2BAA2B;AAFnD,SAAS,AAAA,iBAAiB,CAGtB,KAAK,CAAA,AAAA,IAAC,CAAK,QAAQ,AAAb,CAAc,2BAA2B,CAAC;EAC5C,kBAAkB,EAAE,IAAI;EACxB,MAAM,EAAE,CAAC;CACZ;;AANL,AAQI,SARK,AAAA,iBAAiB,CAQtB,KAAK,CAAA,AAAA,IAAC,CAAK,QAAQ,AAAb,EAAe;EACjB,eAAe,EAAE,SAAS;CAC7B",
+    "sources": [
+        "sw-number-field.scss"
+    ],
+    "names": [],
+    "file": "sw-number-field.css"
+}

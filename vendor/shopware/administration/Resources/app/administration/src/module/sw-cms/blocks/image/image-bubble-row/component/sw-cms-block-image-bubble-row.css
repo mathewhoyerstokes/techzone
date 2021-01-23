@@ -1,0 +1,22 @@
+.sw-cms-block-image-bubble-row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(195px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(195px, 1fr));
+  -webkit-box-pack: stretch;
+      -ms-flex-pack: stretch;
+          justify-content: stretch;
+  justify-items: center;
+  grid-gap: 40px;
+}
+
+.sw-cms-block-image-bubble-row .sw-cms-el-image,
+.sw-cms-block-image-bubble-row .sw-cms-el-image.is--cover {
+  height: 300px;
+  width: 300px;
+  margin: auto;
+  border-radius: 50%;
+  background-clip: padding-box;
+  overflow: hidden;
+}
+/*# sourceMappingURL=sw-cms-block-image-bubble-row.css.map */

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iEAD6D,CAC7D,mCAAmC,CAAC;EAChC,WAAW,EAAE,MAAM;CACtB;;AAHL,AAKI,iEAL6D,CAK7D,wCAAwC,CAAC;EACrC,KAAK,EAAE,IAAI;EACX,cAAc,EAAE,MAAM;EACtB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-cms-el-config-product-description-reviews.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-config-product-description-reviews.css"
+}

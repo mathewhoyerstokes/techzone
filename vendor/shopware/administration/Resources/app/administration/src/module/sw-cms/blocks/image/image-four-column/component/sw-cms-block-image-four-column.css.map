@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,+BAA+B,CAAC;EAC5B,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,QAAQ,EAAE,IAAI;CAKjB;;AARD,AAKI,+BAL2B,CAK3B,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "sw-cms-block-image-four-column.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-image-four-column.css"
+}

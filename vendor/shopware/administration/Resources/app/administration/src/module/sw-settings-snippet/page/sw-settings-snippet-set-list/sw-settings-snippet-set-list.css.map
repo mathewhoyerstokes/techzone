@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,6BADyB,CACzB,sCAAsC,CAAC;EACnC,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAYlB;;AAfL,AAMY,6BANiB,CACzB,sCAAsC,CAIlC,UAAU,AACL,IAAK,CAAA,yCAAyC,EAAE;EAC7C,YAAY,EAAE,GAAG;CACpB;;AARb,AAWY,6BAXiB,CACzB,sCAAsC,CASlC,gBAAgB,AACX,2CAA2C,CAAC;EACzC,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "sw-settings-snippet-set-list.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-snippet-set-list.css"
+}

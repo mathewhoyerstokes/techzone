@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,uBADmB,CACnB,kCAAkC,CAAC,aAAa,AAAA,sBAAsB,CAAC;EACnE,WAAW,EAAE,IAAI;CACpB;;AAHL,AAKI,uBALmB,CAKnB,+BAA+B,CAAC;EAC5B,YAAY,EAAE,IAAI;CACrB;;AAPL,AASI,uBATmB,CASnB,6BAA6B,CAAC;EAC1B,WAAW,EAAE,MAAM;EACnB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-custom-field-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-custom-field-detail.css"
+}

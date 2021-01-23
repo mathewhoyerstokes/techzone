@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,yBADqB,CACrB,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB;;AAHL,AAKI,yBALqB,CAKrB,eAAe,CAAC;EACZ,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "sw-cms-block-image-cover.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-image-cover.css"
+}

@@ -1,0 +1,45 @@
+.sw-plugin-manager .sw-plugin-manager__top-actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: horizontal;
+  -webkit-box-direction: normal;
+      -ms-flex-direction: row;
+          flex-direction: row;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: flex-start;
+  max-width: 800px;
+  margin: 0 auto 10px auto;
+}
+
+@media screen and (max-width: 1360px) {
+  .sw-plugin-manager .sw-plugin-manager__top-actions {
+    max-width: 770px;
+  }
+}
+
+.sw-plugin-manager .sw-card-view__content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: minmax(auto, 1fr) minmax(0px, 800px) 1fr;
+      grid-template-columns: minmax(auto, 1fr) minmax(0px, 800px) 1fr;
+}
+
+.sw-plugin-manager .plugin-manager-sidebar {
+  position: relative;
+  margin-right: 16px;
+  top: 100px;
+}
+
+.sw-plugin-manager .plugin-manager-sidebar .external-icon {
+  margin-left: 6px;
+}
+
+.sw-plugin-manager .sw-empty-state {
+  position: relative;
+}
+/*# sourceMappingURL=sw-plugin-manager.css.map */

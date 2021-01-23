@@ -1,0 +1,11 @@
+.sw-condition-time-range {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr;
+      grid-template-columns: 1fr 1fr;
+}
+
+.sw-condition-time-range .sw-contextual-field .sw-field__addition .sw-icon {
+  line-height: 0;
+}
+/*# sourceMappingURL=sw-condition-time-range.css.map */

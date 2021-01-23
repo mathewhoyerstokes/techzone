@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,qBADiB,CACjB,iDAAiD,CAAC;EAC9C,OAAO,EAAE,KAAK;CACjB",
+    "sources": [
+        "sw-event-action-list.scss"
+    ],
+    "names": [],
+    "file": "sw-event-action-list.css"
+}

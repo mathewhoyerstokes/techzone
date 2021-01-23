@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,yDAAe,CAAC;EACZ,OAAO,EAAE,IAAI;CAChB;;AAEA,AACG,mDADK,GACH,mDAAmD,CAAC;EAClD,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-sales-channel-detail-product-comparison.scss"
+    ],
+    "names": [],
+    "file": "sw-sales-channel-detail-product-comparison.css"
+}

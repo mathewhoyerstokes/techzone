@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,wBAAwB,CAAC;EACrB,KAAK,EAAE,IAAI;CAKd;;AAND,AAGI,wBAHoB,CAGpB,wBAAwB,CAAC;EACrB,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-order-product-select.scss"
+    ],
+    "names": [],
+    "file": "sw-order-product-select.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,wBAAwB,CAAC;EACrB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,QAAQ,EAAE,MAAM;CAOnB;;AAVD,AAKI,wBALoB,CAKpB,GAAG,CAAC;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "sw-cms-el-preview-image.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-preview-image.css"
+}

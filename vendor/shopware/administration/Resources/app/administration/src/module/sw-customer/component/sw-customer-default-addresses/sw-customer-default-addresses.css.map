@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,8BAA8B,CAAC;EAC3B,UAAU,EAAE,KAAK;CAKpB;;AAND,AAGI,8BAH0B,CAG1B,WAAW,CAAC;EACR,aAAa,EAAE,CAAC;CACnB",
+    "sources": [
+        "sw-customer-default-addresses.scss"
+    ],
+    "names": [],
+    "file": "sw-customer-default-addresses.css"
+}

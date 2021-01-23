@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,8BAA8B,CAAC;EAC3B,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,QAAQ,EAAE,IAAI;CAKjB;;AARD,AAKI,8BAL0B,CAK1B,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "sw-cms-block-image-two-column.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-image-two-column.css"
+}

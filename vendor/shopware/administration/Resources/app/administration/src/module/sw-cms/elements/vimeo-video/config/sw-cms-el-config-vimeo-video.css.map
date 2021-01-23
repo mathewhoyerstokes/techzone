@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,8CAAkB,CAAC;EACf,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,eAAe,EAAE,IAAI;EACrB,kBAAkB,EAAE,SAAS;EAC7B,aAAa,EAAE,IAAI;CACtB;;AAEA,AAAD,iDAAqB,CAAC;EAClB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,eAAe,EAAE,IAAI;EACrB,kBAAkB,EAAE,SAAS;CAChC;;AAdL,AAgBI,6BAhByB,CAgBzB,iBAAiB,CAAC;EACd,UAAU,EAAE,CAAC;CAChB",
+    "sources": [
+        "sw-cms-el-config-vimeo-video.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-config-vimeo-video.css"
+}

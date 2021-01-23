@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,2BADuB,CACvB,WAAW,CAAC;EACR,MAAM,EAAE,CAAC;CACZ;;AAHL,AAMQ,2BANmB,CAKvB,oBAAoB,CAChB,EAAE;AANV,2BAA2B,CAKvB,oBAAoB,CAEhB,EAAE,CAAC;EACC,YAAY,EAAE,WAAW;CAC5B;;AATT,AAWQ,2BAXmB,CAKvB,oBAAoB,CAMhB,EAAE,CAAC;EACC,OAAO,EAAE,UAAU;CACtB;;AAbT,AAeQ,2BAfmB,CAKvB,oBAAoB,CAUhB,EAAE,CAAC;EACC,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "sw-order-delivery-metadata.scss"
+    ],
+    "names": [],
+    "file": "sw-order-delivery-metadata.css"
+}

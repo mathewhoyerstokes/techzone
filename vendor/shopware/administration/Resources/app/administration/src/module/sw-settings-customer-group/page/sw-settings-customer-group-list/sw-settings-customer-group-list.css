@@ -1,0 +1,16 @@
+.sw-settings-customer-group-list .sw-field--radio .sw-field__radio-group {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  line-height: 1.1;
+}
+
+.sw-settings-customer-group-list .sw-field--radio .sw-field__radio-option {
+  padding: 5px;
+  margin: 0;
+}
+
+.sw-settings-customer-group-list .sw-field--radio .sw-field__radio-option label {
+  margin-left: 5px;
+}
+/*# sourceMappingURL=sw-settings-customer-group-list.css.map */

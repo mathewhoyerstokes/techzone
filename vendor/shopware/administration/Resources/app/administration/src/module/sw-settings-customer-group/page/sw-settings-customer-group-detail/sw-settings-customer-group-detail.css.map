@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,wDAAwD,CAAC;EACrD,aAAa,EAAE,IAAI;CACtB;;AAED,AAAA,kCAAkC,CAAC,iBAAiB,CAAC;EACjD,MAAM,EAAE,CAAC;CACZ",
+    "sources": [
+        "sw-settings-customer-group-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-customer-group-detail.css"
+}

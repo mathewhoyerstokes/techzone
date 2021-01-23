@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,uBADmB,CACnB,+CAA+C,CAAC;EAC5C,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "sw-media-modal-replace.scss"
+    ],
+    "names": [],
+    "file": "sw-media-modal-replace.css"
+}

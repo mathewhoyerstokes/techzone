@@ -1,0 +1,9 @@
+.sw-cms-preview-text-three-column {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 1fr 1fr 1fr;
+      grid-template-columns: 1fr 1fr 1fr;
+  grid-column-gap: 20px;
+  padding: 15px;
+}
+/*# sourceMappingURL=sw-cms-preview-text-three-column.css.map */

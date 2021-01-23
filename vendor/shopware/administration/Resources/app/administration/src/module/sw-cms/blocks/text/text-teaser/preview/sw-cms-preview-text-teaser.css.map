@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2BAA2B,CAAC;EACxB,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "sw-cms-preview-text-teaser.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-text-teaser.css"
+}

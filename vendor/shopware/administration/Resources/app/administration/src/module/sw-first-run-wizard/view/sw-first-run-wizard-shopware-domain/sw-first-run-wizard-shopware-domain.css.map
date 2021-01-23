@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,oCAAoC,CAAC;EACjC,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "sw-first-run-wizard-shopware-domain.scss"
+    ],
+    "names": [],
+    "file": "sw-first-run-wizard-shopware-domain.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,wBADoB,CACpB,iDAAiD,CAAC;EAC9C,WAAW,EAAE,GAAG;EAChB,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI;CACtB;;AALL,AAOI,wBAPoB,CAOpB,+CAA+C,CAAC;EAC5C,SAAS,EAAE,IAAI;EACf,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-sales-channel-detail-analytics.scss"
+    ],
+    "names": [],
+    "file": "sw-sales-channel-detail-analytics.css"
+}

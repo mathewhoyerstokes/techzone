@@ -1,0 +1,262 @@
+<?php //%255BShopware%255CCore%255CCheckout%255CCart%255CSalesChannel%255CSalesChannelCartController%2523createCart%255D%255B1%255D
+
+return [PHP_INT_MAX, static function () { return \Symfony\Component\VarExporter\Internal\Hydrator::hydrate(
+    $o = [
+        clone (($p = &\Symfony\Component\VarExporter\Internal\Registry::$prototypes)['Shopware\\Core\\Framework\\Routing\\Annotation\\Since'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Shopware\\Core\\Framework\\Routing\\Annotation\\Since')),
+        clone ($p['OpenApi\\Annotations\\Post'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Post')),
+        clone ($p['OpenApi\\Annotations\\Parameter'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Parameter')),
+        clone ($p['OpenApi\\Annotations\\Schema'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Schema')),
+        clone ($p['OpenApi\\Context'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Context')),
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Annotations\\Parameter'],
+        clone $p['OpenApi\\Annotations\\Schema'],
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Context'],
+        clone ($p['OpenApi\\Annotations\\Response'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Response')),
+        clone ($p['OpenApi\\Annotations\\Header'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Header')),
+        clone $p['OpenApi\\Annotations\\Schema'],
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Context'],
+        clone ($p['OpenApi\\Annotations\\JsonContent'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\JsonContent')),
+        clone ($p['OpenApi\\Annotations\\Property'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('OpenApi\\Annotations\\Property')),
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Annotations\\Response'],
+        clone $p['OpenApi\\Context'],
+        clone $p['OpenApi\\Context'],
+        clone ($p['Symfony\\Component\\Routing\\Annotation\\Route'] ?? \Symfony\Component\VarExporter\Internal\Registry::p('Symfony\\Component\\Routing\\Annotation\\Route')),
+    ],
+    null,
+    [
+        'Shopware\\Core\\Framework\\Routing\\Annotation\\Since' => [
+            'value' => [
+                '6.0.0.0',
+            ],
+        ],
+        'stdClass' => [
+            'path' => [
+                1 => '/checkout/cart',
+            ],
+            'tags' => [
+                1 => [
+                    'Sales Channel Api',
+                ],
+            ],
+            'summary' => [
+                1 => 'Create a new Cart',
+            ],
+            'operationId' => [
+                1 => 'createCart',
+            ],
+            'parameters' => [
+                1 => [
+                    $o[2],
+                    $o[6],
+                ],
+            ],
+            'responses' => [
+                1 => [
+                    $o[10],
+                    $o[20],
+                ],
+            ],
+            '_context' => [
+                1 => $o[22],
+                $o[5],
+                $o[4],
+                6 => $o[9],
+                $o[8],
+                10 => $o[15],
+                $o[14],
+                $o[13],
+                16 => $o[19],
+                $o[18],
+                20 => $o[21],
+            ],
+            'parameter' => [
+                2 => 'token',
+                6 => 'name',
+            ],
+            'name' => [
+                2 => 'token',
+                6 => 'name',
+            ],
+            'in' => [
+                2 => 'query',
+                6 => 'query',
+            ],
+            'description' => [
+                2 => 'the cart token',
+                6 => 'the carts name',
+                10 => 'The cart identified by given token',
+                'The token of the newly created cart',
+                17 => 'The token of the newly created cart',
+            ],
+            'schema' => [
+                2 => $o[3],
+                6 => $o[7],
+                11 => $o[12],
+            ],
+            'type' => [
+                3 => 'string',
+                7 => 'string',
+                12 => 'string',
+                16 => 'object',
+                'string',
+            ],
+            'format' => [
+                3 => 'uuid',
+                12 => 'uuid',
+                17 => 'uuid',
+            ],
+            'filename' => [
+                4 => '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                8 => '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                13 => '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                18 => '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                21 => '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+                '/Applications/MAMP/htdocs/shopware-techzone/vendor/doctrine/annotations/lib/Doctrine/Common/Annotations/DocParser.php',
+            ],
+            'line' => [
+                4 => 825,
+                825,
+                8 => 825,
+                825,
+                13 => 825,
+                825,
+                825,
+                18 => 825,
+                825,
+                21 => 825,
+                825,
+            ],
+            'method' => [
+                4 => 'Annotation',
+                'Annotation',
+                8 => 'Annotation',
+                'Annotation',
+                13 => 'Annotation',
+                'Annotation',
+                'Annotation',
+                18 => 'Annotation',
+                'Annotation',
+                21 => 'Annotation',
+                'Annotation',
+            ],
+            'class' => [
+                4 => 'DocParser',
+                'DocParser',
+                8 => 'DocParser',
+                'DocParser',
+                13 => 'DocParser',
+                'DocParser',
+                'DocParser',
+                18 => 'DocParser',
+                'DocParser',
+                21 => 'DocParser',
+                'DocParser',
+            ],
+            'namespace' => [
+                4 => 'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+                8 => 'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+                13 => 'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+                18 => 'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+                21 => 'Doctrine\\Common\\Annotations',
+                'Doctrine\\Common\\Annotations',
+            ],
+            'annotations' => [
+                4 => [
+                    $o[3],
+                ],
+                [
+                    $o[2],
+                ],
+                8 => [
+                    $o[7],
+                ],
+                [
+                    $o[6],
+                ],
+                13 => [
+                    $o[12],
+                ],
+                [
+                    $o[11],
+                ],
+                [
+                    $o[10],
+                ],
+                18 => [
+                    $o[17],
+                ],
+                [
+                    $o[16],
+                ],
+                21 => [
+                    $o[20],
+                ],
+                [
+                    $o[1],
+                ],
+            ],
+            'response' => [
+                10 => '200',
+                20 => '404',
+            ],
+            'headers' => [
+                10 => [
+                    $o[11],
+                ],
+            ],
+            '_unmerged' => [
+                10 => [
+                    $o[16],
+                ],
+            ],
+            'header' => [
+                11 => 'sw-context-token',
+            ],
+            'properties' => [
+                16 => [
+                    $o[17],
+                ],
+            ],
+            'property' => [
+                17 => 'sw-context-token',
+            ],
+            'ref' => [
+                20 => '#/components/responses/404',
+            ],
+        ],
+        'Symfony\\Component\\Routing\\Annotation\\Route' => [
+            'path' => [
+                23 => '/sales-channel-api/v{version}/checkout/cart',
+            ],
+            'name' => [
+                23 => 'sales-channel-api.checkout.cart.create',
+            ],
+            'methods' => [
+                23 => [
+                    'POST',
+                ],
+            ],
+        ],
+    ],
+    [
+        $o[0],
+        $o[1],
+        $o[23],
+    ],
+    []
+); }];

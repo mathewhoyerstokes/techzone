@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "sw-cms-el-config-text.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-config-text.css"
+}

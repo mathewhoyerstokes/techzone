@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iBADa,CACb,UAAU;AADd,iBAAiB,CAEb,iBAAiB,CAAC;EACd,aAAa,EAAE,IAAI;CACtB;;AAJL,AAMI,iBANa,CAMb,8CAA8C,CAAC;EAC3C,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,gBAAgB;CAK3B;;AAHG,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EAV5C,AAMI,iBANa,CAMb,8CAA8C,CAAC;IAKvC,SAAS,EAAE,KAAK;GAEvB",
+    "sources": [
+        "sw-system-config.scss"
+    ],
+    "names": [],
+    "file": "sw-system-config.css"
+}

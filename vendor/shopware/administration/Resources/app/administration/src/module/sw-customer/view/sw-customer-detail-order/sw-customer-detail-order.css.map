@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACE,yBADuB,CACvB,eAAe,CAAC;EACd,QAAQ,EAAE,QAAQ;CACnB",
+    "sources": [
+        "sw-customer-detail-order.scss"
+    ],
+    "names": [],
+    "file": "sw-customer-detail-order.css"
+}

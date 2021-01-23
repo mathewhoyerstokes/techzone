@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,+BAD2B,CAC3B,iBAAiB,CAAC;EACd,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-newsletter-recipient-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-newsletter-recipient-detail.css"
+}

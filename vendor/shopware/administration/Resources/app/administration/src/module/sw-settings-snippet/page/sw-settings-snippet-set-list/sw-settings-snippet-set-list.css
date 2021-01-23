@@ -1,0 +1,16 @@
+.sw-settings-snippet-set-list .sw-settings-snippet-set-list__actions {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-wrap: wrap;
+      flex-wrap: wrap;
+}
+
+.sw-settings-snippet-set-list .sw-settings-snippet-set-list__actions .sw-button:not(.sw-settings-snippet-set-list__action-add) {
+  margin-right: 8px;
+}
+
+.sw-settings-snippet-set-list .sw-settings-snippet-set-list__actions .sw-button-group.sw-settings-snippet-set-list__action-split {
+  margin-left: auto;
+}
+/*# sourceMappingURL=sw-settings-snippet-set-list.css.map */

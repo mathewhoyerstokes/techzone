@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,kBADc,CACd,oCAAoC,CAAC;EACjC,QAAQ,EAAE,QAAQ;EAClB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;EACZ,IAAI,EAAE,GAAG;EACT,GAAG,EAAE,GAAG;EACR,SAAS,EAAE,qBAAqB;CACnC;;AARL,AAUI,kBAVc,CAUd,2BAA2B,AAAA,WAAW,CAAC;EACnC,UAAU,EAAE,MAAM;CACrB",
+    "sources": [
+        "sw-button-process.scss"
+    ],
+    "names": [],
+    "file": "sw-button-process.css"
+}

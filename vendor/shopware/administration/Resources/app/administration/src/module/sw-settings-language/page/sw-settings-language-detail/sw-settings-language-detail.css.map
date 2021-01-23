@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,4BADwB,CACxB,0CAA0C,CAAA;EACtC,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,CAAC;CACnB;;AAJL,AAMI,4BANwB,CAMxB,2CAA2C,CAAC;EACxC,QAAQ,EAAE,QAAQ;CAOrB;;AAdL,AASQ,4BAToB,CAMxB,2CAA2C,CAGvC,aAAa,CAAC;EACV,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,IAAI;EACT,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "sw-settings-language-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-language-detail.css"
+}

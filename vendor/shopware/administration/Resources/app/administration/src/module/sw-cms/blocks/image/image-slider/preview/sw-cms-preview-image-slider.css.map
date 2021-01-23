@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,4BAA4B,CAAC;EACzB,WAAW,EAAE,MAAM;EACnB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,aAAa;EACpC,QAAQ,EAAE,GAAG;CAQhB;;AAZD,AAMI,4BANwB,CAMxB,GAAG,CAAC;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;EACf,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "sw-cms-preview-image-slider.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-image-slider.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,oCADgC,CAChC,6CAA6C,CAAC;EAC1C,SAAS,EAAE,KAAK;EAChB,MAAM,EAAE,SAAS;EACjB,OAAO,EAAE,IAAI;CAChB;;AALL,AAOI,oCAPgC,CAOhC,wDAAwD,CAAC;EACrD,KAAK,EAAE,IAAI;CACd",
+    "sources": [
+        "sw-settings-shipping-price-matrices.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-shipping-price-matrices.css"
+}

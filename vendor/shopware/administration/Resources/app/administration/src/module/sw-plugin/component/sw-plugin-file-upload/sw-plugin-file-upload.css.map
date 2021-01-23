@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEI,sBAFkB,CAElB,UAAU,CAAC;EACP,WAAW,EAAE,IAAI;CACpB;;AAJL,AAMI,sBANkB,CAMlB,kCAAkC,CAAC;EAC/B,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "sw-plugin-file-upload.scss"
+    ],
+    "names": [],
+    "file": "sw-plugin-file-upload.css"
+}

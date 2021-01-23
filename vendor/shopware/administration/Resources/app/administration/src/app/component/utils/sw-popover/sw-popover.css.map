@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,WADO,CACP,oBAAoB,CAAC;EACjB,QAAQ,EAAE,OAAO;CACpB",
+    "sources": [
+        "sw-popover.scss"
+    ],
+    "names": [],
+    "file": "sw-popover.css"
+}

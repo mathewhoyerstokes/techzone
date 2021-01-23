@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2BAA2B,CAAC;EACxB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,KAAK;CAQhB;;AAVD,AAII,2BAJuB,CAIvB,GAAG,CAAC;EACA,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "sw-cms-preview-image-cover.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-image-cover.css"
+}

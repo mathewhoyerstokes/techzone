@@ -1,0 +1,14 @@
+.sw-order-saveable-field .sw-container {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+
+.sw-order-saveable-field .sw-field {
+  margin-bottom: 0;
+}
+
+.sw-order-saveable-field .sw-field input {
+  padding: 1px 16px;
+}
+/*# sourceMappingURL=sw-order-saveable-field.css.map */

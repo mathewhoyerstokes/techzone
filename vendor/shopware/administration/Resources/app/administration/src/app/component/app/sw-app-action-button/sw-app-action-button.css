@@ -1,0 +1,15 @@
+.sw-app-action-button .sw-app-action-button__icon {
+  width: 16px;
+  height: 16px;
+  border: none;
+}
+
+.sw-app-action-button .sw-icon {
+  margin-left: 4px;
+  vertical-align: baseline;
+}
+
+.sw-app-action-button .sw-icon svg {
+  vertical-align: baseline;
+}
+/*# sourceMappingURL=sw-app-action-button.css.map */

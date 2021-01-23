@@ -1,0 +1,23 @@
+{
+  "name": "techzone",
+  "author": "Shopware AG",
+  "views": [
+     "@Storefront",
+     "@custom",
+     "@Plugins",
+     "@Techzone"
+  ],
+  "style": [
+    "app/storefront/src/scss/overrides.scss",
+    "@Storefront",
+    "app/storefront/src/scss/base.scss"
+  ],
+  "script": [
+    "@Storefront",
+    "app/storefront/dist/storefront/js/techzone.js"
+  ],
+  "asset": [
+    "@Storefront",
+    "app/storefront/src/assets"
+  ]
+}

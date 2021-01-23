@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,sBADkB,CAClB,+BAA+B,CAAC;EAC5B,MAAM,EAAE,MAAM;CACjB;;AAHL,AAKI,sBALkB,CAKlB,wCAAwC,CAAC;EACrC,aAAa,EAAE,IAAI;CACtB;;AAPL,AASI,sBATkB,CASlB,uBAAuB,AAAA,cAAc,CAAC;EAClC,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-sidebar-media-item.scss"
+    ],
+    "names": [],
+    "file": "sw-sidebar-media-item.css"
+}

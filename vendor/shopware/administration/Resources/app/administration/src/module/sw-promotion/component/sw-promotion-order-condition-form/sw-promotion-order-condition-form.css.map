@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,+BAD2B,CAC3B,CAAC,CAAC;EACE,aAAa,EAAE,IAAI;CACtB;;AAHL,AAKI,+BAL2B,CAK3B,gBAAgB,CAAC;EACb,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "sw-promotion-order-condition-form.scss"
+    ],
+    "names": [],
+    "file": "sw-promotion-order-condition-form.css"
+}

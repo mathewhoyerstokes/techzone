@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,kCAD8B,CAC9B,QAAQ,CAAC,aAAa,CAAC;EACnB,MAAM,EAAE,UAAU;EAClB,SAAS,EAAE,IAAI;CAClB;;AAJL,AAMI,kCAN8B,CAM9B,aAAa,AAAA,sBAAsB,CAAC;EAChC,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "sw-custom-field-translated-labels.scss"
+    ],
+    "names": [],
+    "file": "sw-custom-field-translated-labels.css"
+}

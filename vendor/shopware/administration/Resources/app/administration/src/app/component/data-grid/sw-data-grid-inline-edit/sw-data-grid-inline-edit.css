@@ -1,0 +1,18 @@
+.sw-data-grid-inline-edit {
+  width: 100%;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.sw-data-grid-inline-edit .sw-data-grid-inline-edit__placeholder {
+  display: inline-block;
+  margin: 0 10px;
+  color: rgba(0, 0, 0, 0.2);
+  cursor: default;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+}
+/*# sourceMappingURL=sw-data-grid-inline-edit.css.map */

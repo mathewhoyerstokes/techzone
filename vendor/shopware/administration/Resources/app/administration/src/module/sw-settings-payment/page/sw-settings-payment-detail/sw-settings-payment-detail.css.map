@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,2BADuB,CACvB,oCAAoC,CAAC;EACjC,UAAU,EAAE,KAAK;CACpB;;AAHL,AAMQ,2BANmB,CAKvB,mBAAmB,CACf,oBAAoB,CAAC;EACjB,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-settings-payment-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-payment-detail.css"
+}

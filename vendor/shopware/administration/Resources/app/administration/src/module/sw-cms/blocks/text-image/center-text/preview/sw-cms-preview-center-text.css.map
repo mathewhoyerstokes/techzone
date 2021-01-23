@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2BAA2B,CAAC;EACxB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,WAAW;EAClC,OAAO,EAAE,IAAI;CAchB;;AAjBD,AAKI,2BALuB,CAKvB,iCAAiC,CAAC;EAC9B,OAAO,EAAE,IAAI;EACb,UAAU,EAAE,MAAM;EAClB,MAAM,EAAE,KAAK;CAChB;;AATL,AAWI,2BAXuB,CAWvB,GAAG,CAAC;EACA,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf",
+    "sources": [
+        "sw-cms-preview-center-text.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-center-text.css"
+}

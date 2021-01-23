@@ -1,0 +1,17 @@
+.sw-media-display-options {
+  display: -ms-grid;
+  display: grid;
+  grid-gap: 16px;
+  grid-auto-flow: column;
+  -webkit-box-pack: end;
+      -ms-flex-pack: end;
+          justify-content: end;
+  justify-items: end;
+}
+
+@media (max-width: 1360px) {
+  .sw-media-display-options {
+    grid-auto-flow: row;
+  }
+}
+/*# sourceMappingURL=sw-media-display-options.css.map */

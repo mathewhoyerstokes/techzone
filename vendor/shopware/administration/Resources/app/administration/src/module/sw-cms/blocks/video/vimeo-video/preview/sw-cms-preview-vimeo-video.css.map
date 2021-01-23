@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2BAA2B,CAAC;EACxB,QAAQ,EAAE,QAAQ;EAClB,QAAQ,EAAE,MAAM;EAChB,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,MAAM;EACvB,WAAW,EAAE,MAAM;EACnB,MAAM,EAAE,IAAI;CAef;;AAbI,AAAD,gCAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;AAEA,AAAD,iCAAO,CAAC;EAIJ,MAAM,EAHO,IAAI;EAIjB,KAAK,EAJQ,IAAI;EAKjB,QAAQ,EAAE,QAAQ;CACrB",
+    "sources": [
+        "sw-cms-preview-vimeo-video.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-vimeo-video.css"
+}

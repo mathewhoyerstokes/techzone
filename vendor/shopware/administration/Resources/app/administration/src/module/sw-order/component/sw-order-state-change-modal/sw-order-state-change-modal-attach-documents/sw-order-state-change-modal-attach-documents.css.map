@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,6DAAiB,CAAC;EACd,OAAO,EAAE,IAAI;EACb,eAAe,EAAE,QAAQ;CAC5B;;AAJL,AAMI,6CANyC,CAMzC,qDAAqD,CAAC;EAClD,WAAW,EAAE,IAAI;CACpB;;AAGL,AACI,4CADwC,CACxC,qDAAqD,CAAC;EAClD,MAAM,EAAE,UAAU;CACrB;;AAHL,AAKI,4CALwC,CAKxC,qDAAqD,CAAC;EAClD,MAAM,EAAE,IAAI;EACZ,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "sw-order-state-change-modal-attach-documents.scss"
+    ],
+    "names": [],
+    "file": "sw-order-state-change-modal-attach-documents.css"
+}

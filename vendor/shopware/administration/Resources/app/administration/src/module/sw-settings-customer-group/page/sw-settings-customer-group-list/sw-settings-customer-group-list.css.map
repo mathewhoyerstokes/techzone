@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,gCAFwB,CAC5B,gBAAgB,CACZ,sBAAsB,CAAC;EACnB,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,GAAG;CACnB;;AALT,AAOQ,gCAPwB,CAC5B,gBAAgB,CAMZ,uBAAuB,CAAC;EACpB,OAAO,EAAE,GAAG;EACZ,MAAM,EAAE,CAAC;CAKZ;;AAdT,AAWY,gCAXoB,CAC5B,gBAAgB,CAMZ,uBAAuB,CAInB,KAAK,CAAC;EACF,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-settings-customer-group-list.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-customer-group-list.css"
+}

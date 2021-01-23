@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,iCAD6B,CAC7B,GAAG,AAAA,eAAe,CAAC;EACf,OAAO,EAAE,SAAS;CACrB",
+    "sources": [
+        "sw-settings-listing-delete-modal.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-listing-delete-modal.css"
+}

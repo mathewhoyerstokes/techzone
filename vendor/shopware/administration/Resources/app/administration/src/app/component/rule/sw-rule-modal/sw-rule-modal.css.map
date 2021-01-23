@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,SADK,AAAA,cAAc,AAAA,gBAAgB,CACnC,iBAAiB,CAAC;EACd,UAAU,EAAE,KAAK;CASpB;;AAXL,AAIQ,SAJC,AAAA,cAAc,AAAA,gBAAgB,CACnC,iBAAiB,CAGb,eAAe,CAAC;EACZ,UAAU,EAAE,KAAK;CAKpB;;AAVT,AAOY,SAPH,AAAA,cAAc,AAAA,gBAAgB,CACnC,iBAAiB,CAGb,eAAe,CAGX,kBAAkB,GAAG,0BAA0B,GAAG,6CAA6C,CAAC;EAC5F,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "sw-rule-modal.scss"
+    ],
+    "names": [],
+    "file": "sw-rule-modal.css"
+}

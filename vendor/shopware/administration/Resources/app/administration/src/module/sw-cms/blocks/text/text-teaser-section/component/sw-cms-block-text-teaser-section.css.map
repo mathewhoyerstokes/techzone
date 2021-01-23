@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iCAAiC,CAAC;EAC9B,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAelB;;AAjBD,AAII,iCAJ6B,CAI7B,yCAAyC,CAAC;EACtC,SAAS,EAAE,CAAC;EACZ,WAAW,EAAE,CAAC;EACd,UAAU,EAAE,KAAK;EACjB,YAAY,EAAE,IAAI;EAClB,aAAa,EAAE,IAAI;CACtB;;AAVL,AAYI,iCAZ6B,CAY7B,0CAA0C,CAAC;EACvC,SAAS,EAAE,CAAC;EACZ,WAAW,EAAE,CAAC;EACd,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "sw-cms-block-text-teaser-section.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-text-teaser-section.css"
+}

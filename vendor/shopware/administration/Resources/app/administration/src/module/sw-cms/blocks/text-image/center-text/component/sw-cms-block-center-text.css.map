@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,yBAAyB,CAAC;EACtB,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAsBlB;;AAxBD,AAII,yBAJqB,CAIrB,+BAA+B,CAAC;EAC5B,SAAS,EAAE,CAAC;EACZ,WAAW,EAAE,CAAC;EACd,UAAU,EAAE,KAAK;CACpB;;AARL,AAUI,yBAVqB,CAUrB,qCAAqC;AAVzC,yBAAyB,CAWrB,sCAAsC,CAAC;EACnC,SAAS,EAAE,CAAC;EACZ,WAAW,EAAE,CAAC;EACd,UAAU,EAAE,KAAK;CACpB;;AAfL,AAiBI,yBAjBqB,CAiBrB,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB;;AAnBL,AAqBI,yBArBqB,CAqBrB,eAAe,CAAC;EACZ,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "sw-cms-block-center-text.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-center-text.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,uBADmB,CACnB,EAAE,EADN,uBAAuB,CACf,EAAE,EADV,uBAAuB,CACX,EAAE,EADd,uBAAuB,CACP,EAAE,EADlB,uBAAuB,CACH,EAAE,EADtB,uBAAuB,CACC,EAAE,CAAC;EACnB,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;EACjB,MAAM,EAAE,SAAS;CACpB;;AALL,AAOI,uBAPmB,CAOnB,CAAC,CAAC;EACE,SAAS,EAAE,IAAI;EACf,WAAW,EAAE,IAAI;CACpB",
+    "sources": [
+        "sw-cms-el-preview-text.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-preview-text.css"
+}

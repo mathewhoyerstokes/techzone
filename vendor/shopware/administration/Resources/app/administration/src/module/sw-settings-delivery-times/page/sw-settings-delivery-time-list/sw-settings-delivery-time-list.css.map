@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,+BAD2B,CAC3B,iBAAiB,CAAC;EACd,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "sw-settings-delivery-time-list.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-delivery-time-list.css"
+}

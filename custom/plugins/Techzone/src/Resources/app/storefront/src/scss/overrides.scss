@@ -1,0 +1,18 @@
+/*
+Override variable defaults
+==================================================
+This file is used to override default SCSS variables from the Shopware Storefront or Bootstrap.
+
+Because of the !default flags, theme variable overrides have to be declared beforehand.
+https://getbootstrap.com/docs/4.0/getting-started/theming/#variable-defaults
+*/
+
+$primary-color: #c8d1e0;
+$secondary-color: #444444;
+$custom-color: #f7e0cb;
+$white: #ffffff;
+
+
+$bodytext: 18px;
+$bodytext-small: 14px;
+$bodytext-large: 22px;

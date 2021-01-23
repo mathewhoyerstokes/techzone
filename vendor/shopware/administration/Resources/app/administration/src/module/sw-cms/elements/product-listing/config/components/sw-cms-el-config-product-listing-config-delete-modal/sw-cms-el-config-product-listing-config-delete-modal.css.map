@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,2DAA2D,CAAC;EACxD,MAAM,EAAE,KAAK;CAChB",
+    "sources": [
+        "sw-cms-el-config-product-listing-config-delete-modal.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-config-product-listing-config-delete-modal.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,4CADwC,CACxC,sDAAsD,CAAC;EACnD,OAAO,EAAE,IAAI;EACb,SAAS,EAAE,IAAI;CAClB;;AAJL,AAMI,4CANwC,CAMxC,iBAAiB,CAAC;EACd,KAAK,EAAE,gBAAgB;EACvB,UAAU,EAAE,CAAC;CAShB;;AAjBL,AAUQ,4CAVoC,CAMxC,iBAAiB,AAIZ,UAAW,CAAA,IAAI,EAAE;EACd,WAAW,EAAE,IAAI;CACpB;;AAZT,AAcQ,4CAdoC,CAMxC,iBAAiB,AAQZ,UAAW,CAAA,GAAG,EAAE;EACb,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "sw-users-permissions-additional-permissions.scss"
+    ],
+    "names": [],
+    "file": "sw-users-permissions-additional-permissions.css"
+}

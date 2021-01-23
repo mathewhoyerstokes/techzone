@@ -1,0 +1,86 @@
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-modal__dialog {
+  height: 100%;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: auto 1fr auto;
+      grid-template-rows: auto 1fr auto;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-modal__body {
+  padding: 0;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__content {
+  display: -ms-grid;
+  display: grid;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  -ms-grid-columns: 1fr auto;
+      grid-template-columns: 1fr auto;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__tabs {
+  max-width: unset;
+  width: 100%;
+  padding: 15px 30px;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__tabs .sw-tabs__bar {
+  margin: 0 24px 40px;
+  max-width: unset;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-tabs .sw-tabs__custom-content {
+  height: 100%;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__tab-content {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-rows: auto 1fr;
+      grid-template-rows: auto 1fr;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__upload-container {
+  margin: 0 24px 16px;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__upload-media-grid--compact {
+  margin: 0 24px;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__breadcrumbs-and-search--compact {
+  margin: 0 24px;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: reverse;
+      -ms-flex-direction: column-reverse;
+          flex-direction: column-reverse;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__breadcrumbs-and-search--compact .sw-simple-search-field {
+  margin-bottom: 16px;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__breadcrumbs-and-search {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  margin: 0 24px 16px;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__breadcrumbs-and-search .sw-media-breadcrumbs {
+  margin-bottom: 0;
+}
+
+.sw-modal.sw-media-modal-v2.sw-modal--full .sw-media-modal-v2__breadcrumbs-and-search .sw-simple-search-field {
+  margin-bottom: 0;
+}
+/*# sourceMappingURL=sw-media-modal-v2.css.map */

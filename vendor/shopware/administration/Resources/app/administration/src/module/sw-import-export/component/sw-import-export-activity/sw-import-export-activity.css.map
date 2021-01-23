@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,0BADsB,CACtB,qDAAqD,CAAC;EAClD,WAAW,EAAE,IAAI;CACpB;;AAHL,AAKI,0BALsB,CAKtB,eAAe,CAAC;EACZ,MAAM,EAAE,UAAU;CACrB;;AAGL,AAAA,2CAA2C,CAAC;EACxC,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "sw-import-export-activity.scss"
+    ],
+    "names": [],
+    "file": "sw-import-export-activity.css"
+}

@@ -1,0 +1,7 @@
+.sw-condition-line-item-with-quantity {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: minmax(128px, auto) minmax(128px, auto) 1fr;
+      grid-template-columns: minmax(128px, auto) minmax(128px, auto) 1fr;
+}
+/*# sourceMappingURL=sw-condition-line-item-with-quantity.css.map */

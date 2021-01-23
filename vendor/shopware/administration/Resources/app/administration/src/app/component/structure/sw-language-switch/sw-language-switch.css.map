@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,mBAAmB,CAAC;EAChB,OAAO,EAAE,YAAY;EACrB,KAAK,EAAE,KAAK;EACZ,cAAc,EAAE,MAAM;EACtB,UAAU,EAAE,IAAI;EAChB,YAAY,EAAE,GAAG;CAKpB;;AAVD,AAOI,mBAPe,CAOf,2BAA2B,CAAC;EACxB,aAAa,EAAE,CAAC;CACnB",
+    "sources": [
+        "sw-language-switch.scss"
+    ],
+    "names": [],
+    "file": "sw-language-switch.css"
+}

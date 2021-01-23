@@ -1,0 +1,16 @@
+.sw-cms-block-image-highlight-row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(195px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(195px, 1fr));
+  grid-gap: 40px;
+}
+
+.sw-cms-block-image-highlight-row .sw-cms-el-image.is--cover {
+  min-height: 340px;
+}
+
+.sw-cms-block-image-highlight-row .sw-cms-el-image {
+  border: 12px solid #fff;
+}
+/*# sourceMappingURL=sw-cms-block-image-highlight-row.css.map */

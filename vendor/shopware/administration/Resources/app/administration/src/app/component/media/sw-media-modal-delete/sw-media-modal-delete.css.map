@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,sBADkB,CAClB,uCAAuC,CAAC;EACpC,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "sw-media-modal-delete.scss"
+    ],
+    "names": [],
+    "file": "sw-media-modal-delete.css"
+}

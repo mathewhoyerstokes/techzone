@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,kBADc,AACb,QAAQ,CAAC;EACN,MAAM,EAAE,OAAO;CAClB",
+    "sources": [
+        "sw-field-copyable.scss"
+    ],
+    "names": [],
+    "file": "sw-field-copyable.css"
+}

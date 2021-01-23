@@ -1,0 +1,21 @@
+.sw-cms-block-image-text-row {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(195px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(195px, 1fr));
+  -ms-flex-line-pack: stretch;
+      align-content: stretch;
+  -webkit-box-align: start;
+      -ms-flex-align: start;
+          align-items: start;
+  grid-gap: 40px;
+}
+
+.sw-cms-block-image-text-row .sw-cms-el-text {
+  padding-top: 20px;
+}
+
+.sw-cms-block-image-text-row .sw-cms-el-image.is--cover {
+  min-height: 200px;
+}
+/*# sourceMappingURL=sw-cms-block-image-text-row.css.map */

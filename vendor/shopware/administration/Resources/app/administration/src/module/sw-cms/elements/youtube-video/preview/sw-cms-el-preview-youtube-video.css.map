@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,gCAAgC,CAAC;EAC7B,QAAQ,EAAE,QAAQ;EAClB,OAAO,EAAE,IAAI;EACb,QAAQ,EAAE,MAAM;EAChB,WAAW,EAAE,MAAM;EACnB,eAAe,EAAE,MAAM;CAa1B;;AAXI,AAAD,qCAAM,CAAC;EACH,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;AAEA,AAAD,sCAAO,CAAC;EAGJ,MAAM,EAFQ,IAAI;EAGlB,QAAQ,EAAE,QAAQ;CACrB",
+    "sources": [
+        "sw-cms-el-preview-youtube-video.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-preview-youtube-video.css"
+}

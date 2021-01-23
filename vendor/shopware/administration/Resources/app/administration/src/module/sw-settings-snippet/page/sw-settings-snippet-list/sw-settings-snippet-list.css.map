@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,4CAAoB,CAAC;EACjB,MAAM,EAAE,sBAAsB;CACjC",
+    "sources": [
+        "sw-settings-snippet-list.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-snippet-list.css"
+}

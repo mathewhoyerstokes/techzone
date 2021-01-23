@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,0BADsB,CACtB,sCAAsC,CAAC;EACnC,aAAa,EAAE,IAAI;EACnB,WAAW,EAAE,IAAI;CACpB;;AAJL,AAMI,0BANsB,CAMtB,sCAAsC,CAAC;EACnC,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-category-link-settings.scss"
+    ],
+    "names": [],
+    "file": "sw-category-link-settings.css"
+}

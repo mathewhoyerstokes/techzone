@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,6BADyB,CACzB,oCAAoC,CAAC;EACjC,MAAM,EAAE,GAAG;CACd",
+    "sources": [
+        "sw-data-grid-column-position.scss"
+    ],
+    "names": [],
+    "file": "sw-data-grid-column-position.css"
+}

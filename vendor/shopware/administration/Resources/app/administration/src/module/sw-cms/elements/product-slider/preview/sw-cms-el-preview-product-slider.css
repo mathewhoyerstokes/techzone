@@ -1,0 +1,18 @@
+.sw-cms-el-preview-product-slider {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 10px 1fr 10px;
+      grid-template-columns: 10px 1fr 10px;
+  grid-gap: 5px;
+  height: 100%;
+}
+
+.sw-cms-el-preview-product-slider img {
+  margin: 0;
+  display: block;
+  max-width: 100%;
+}
+/*# sourceMappingURL=sw-cms-el-preview-product-slider.css.map */

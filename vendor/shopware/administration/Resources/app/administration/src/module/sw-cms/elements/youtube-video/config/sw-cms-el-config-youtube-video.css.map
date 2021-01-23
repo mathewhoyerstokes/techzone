@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACK,AAAD,yCAAW,CAAC;EACR,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,kBAAkB,EAAE,SAAS;EAC7B,eAAe,EAAE,IAAI;CAKxB;;AATA,AAMG,yCANO,CAMP,iBAAiB,CAAC;EACd,UAAU,EAAE,CAAC;CAChB;;AAGJ,AAAD,8CAAgB,CAAC;EACb,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "sw-cms-el-config-youtube-video.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-config-youtube-video.css"
+}

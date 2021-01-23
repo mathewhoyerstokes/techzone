@@ -1,0 +1,19 @@
+.sw-cms-el-config-product-listing div.sw-field--switch {
+  margin: 0;
+}
+
+.sw-cms-el-config-product-listing div.sw-field--switch label {
+  -webkit-box-flex: 0;
+      -ms-flex-positive: 0;
+          flex-grow: 0;
+  margin-right: 0px;
+}
+
+.sw-cms-el-config-product-listing div.sw-cms-el-config-product-listing-custom-sortings {
+  margin-bottom: 18px;
+}
+
+.sw-cms-el-config-product-listing .sw-select-selection-list > li {
+  width: 100%;
+}
+/*# sourceMappingURL=sw-cms-el-config-product-listing.css.map */

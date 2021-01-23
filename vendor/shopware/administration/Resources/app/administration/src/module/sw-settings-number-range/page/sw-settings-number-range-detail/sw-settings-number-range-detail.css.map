@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,gCAD4B,CAC5B,8CAA8C,CAAA;EAC1C,UAAU,EAAE,IAAI;EAChB,aAAa,EAAE,CAAC;CACnB;;AAJL,AAMI,gCAN4B,CAM5B,+CAA+C,CAAC;EAC5C,QAAQ,EAAE,QAAQ;CAOrB;;AAdL,AASQ,gCATwB,CAM5B,+CAA+C,CAG3C,aAAa,CAAC;EACV,QAAQ,EAAE,QAAQ;EAClB,GAAG,EAAE,IAAI;EACT,KAAK,EAAE,IACX;CAAC",
+    "sources": [
+        "sw-settings-number-range-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-number-range-detail.css"
+}

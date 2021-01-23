@@ -1,0 +1,25 @@
+.sw-desktop {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto 1fr;
+      grid-template-columns: auto 1fr;
+  position: relative;
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+
+.sw-desktop.sw-desktop--no-nav {
+  -ms-grid-columns: 1fr;
+      grid-template-columns: 1fr;
+}
+
+@media screen and (max-width: 500px) {
+  .sw-desktop {
+    display: block;
+  }
+  .sw-desktop .sw-desktop__content {
+    height: 100%;
+  }
+}
+/*# sourceMappingURL=sw-desktop.css.map */

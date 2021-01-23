@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,8BAA8B,CAAC;EAC3B,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,QAAQ,EAAE,CAAC;CASd;;AAZD,AAKI,8BAL0B,CAK1B,eAAe,CAAC;EACZ,OAAO,EAAE,IAAI;CAChB;;AAPL,AASI,8BAT0B,CAS1B,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "sw-cms-block-image-text-cover.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-image-text-cover.css"
+}

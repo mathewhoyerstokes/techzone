@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,qBADiB,CACjB,2BAA2B,CAAC;EACxB,UAAU,EAAE,IAAI;CACnB;;AAHL,AAKI,qBALiB,CAKjB,wCAAwC,CAAC;EACrC,UAAU,EAAE,MAAM;EAClB,UAAU,EAAE,GAAG;CAClB",
+    "sources": [
+        "sw-product-clone-modal.scss"
+    ],
+    "names": [],
+    "file": "sw-product-clone-modal.css"
+}

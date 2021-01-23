@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,aADS,CACT,UAAU,CAAC,iBAAiB,CAAC;EACzB,OAAO,EAAE,IAAI;CAChB",
+    "sources": [
+        "sw-media-tag.scss"
+    ],
+    "names": [],
+    "file": "sw-media-tag.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,wBAAwB,CAAC;EACrB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,eAAe,EAAE,IAAI;CACxB",
+    "sources": [
+        "sw-settings-mailer-smtp.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-mailer-smtp.css"
+}

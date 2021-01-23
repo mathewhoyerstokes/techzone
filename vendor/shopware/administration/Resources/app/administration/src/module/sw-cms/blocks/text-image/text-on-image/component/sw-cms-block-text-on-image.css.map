@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,2BADuB,CACvB,eAAe,CAAC;EACZ,OAAO,EAAE,IAAI;EACb,OAAO,EAAE,IAAI;EACb,WAAW,EAAE,MAAM;EACnB,UAAU,EAAE,KAAK;CACpB",
+    "sources": [
+        "sw-cms-block-text-on-image.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-text-on-image.css"
+}

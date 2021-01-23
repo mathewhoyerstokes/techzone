@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAEQ,mBAFW,CACf,mBAAmB,CACf,oBAAoB,CAAC;EACjB,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-property-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-property-detail.css"
+}

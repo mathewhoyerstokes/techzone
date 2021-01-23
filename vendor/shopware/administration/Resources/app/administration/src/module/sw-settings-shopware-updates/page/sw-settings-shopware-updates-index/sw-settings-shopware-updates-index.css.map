@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,0DAA0D,CAAC;EACvD,UAAU,EAAE,IAAI;CAKnB;;AAND,AAEI,0DAFsD,CAEtD,oDAAoD,CAAC;EACjD,KAAK,EAAE,KAAK;EACZ,UAAU,EAAE,IAAI;CACnB",
+    "sources": [
+        "sw-settings-shopware-updates-index.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-shopware-updates-index.css"
+}

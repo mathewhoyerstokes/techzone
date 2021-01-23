@@ -1,0 +1,12 @@
+.sw-condition-line-item-custom-field {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: auto auto auto 1fr !important;
+      grid-template-columns: auto auto auto 1fr !important;
+}
+
+.sw-condition-line-item-custom-field .sw-form-field-renderer label,
+.sw-condition-line-item-custom-field .sw-form-field-renderer .sw-field__label {
+  display: none;
+}
+/*# sourceMappingURL=sw-condition-line-item-custom-field.css.map */

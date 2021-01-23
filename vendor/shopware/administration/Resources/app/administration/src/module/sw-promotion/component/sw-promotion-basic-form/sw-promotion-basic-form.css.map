@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,wBADoB,CACpB,+CAA+C,CAAC;EAC5C,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-promotion-basic-form.scss"
+    ],
+    "names": [],
+    "file": "sw-promotion-basic-form.css"
+}

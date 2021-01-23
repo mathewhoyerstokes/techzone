@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AACI,MAAM,CAAC,MAAM,MAAM,SAAS,EAAE,MAAM;EADxC,AAEQ,wBAFgB,CAEhB,QAAQ,CAAC,eAAe,CAAC;IACrB,KAAK,EAAE,OAAO;IACd,QAAQ,EAAE,OAAO;IACjB,IAAI,EAAE,OAAO;IACb,GAAG,EAAE,OAAO;IACZ,UAAU,EAAE,OAAO;GACtB",
+    "sources": [
+        "sw-category-detail-cms.scss"
+    ],
+    "names": [],
+    "file": "sw-category-detail-cms.css"
+}

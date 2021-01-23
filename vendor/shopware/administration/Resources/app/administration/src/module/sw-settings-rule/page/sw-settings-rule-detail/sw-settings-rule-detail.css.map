@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,wBADoB,CACpB,6CAA6C,CAAC,iBAAiB,CAAC;EAC5D,OAAO,EAAE,CAAC;CACb",
+    "sources": [
+        "sw-settings-rule-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-rule-detail.css"
+}

@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,wCADoC,CACpC,SAAS,CAAC;EACN,SAAS,EAAE,KAAK;CACnB",
+    "sources": [
+        "sw-users-permissions-role-view-detailed.scss"
+    ],
+    "names": [],
+    "file": "sw-users-permissions-role-view-detailed.css"
+}

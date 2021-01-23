@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,mBADe,CACf,6BAA6B,CAAC;EAC1B,OAAO,EAAE,IAAI;CAKhB;;AAPL,AAIQ,mBAJW,CACf,6BAA6B,CAGzB,SAAS,CAAC;EACN,YAAY,EAAE,IAAI;CACrB",
+    "sources": [
+        "sw-product-basic-form.scss"
+    ],
+    "names": [],
+    "file": "sw-product-basic-form.css"
+}

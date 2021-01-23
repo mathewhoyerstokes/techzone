@@ -1,0 +1,22 @@
+.sw-card-filter {
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  height: 30px;
+}
+
+.sw-card-filter .sw-card-filter-container {
+  -webkit-box-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+
+.sw-card-filter .sw-card-filter-container.hasFilter {
+  padding-right: 20px;
+}
+
+.sw-card-filter .sw-card-filter-container .sw-simple-search-field__input input {
+  padding: 0 20px 0 44px;
+  height: 32px;
+}
+/*# sourceMappingURL=sw-card-filter.css.map */

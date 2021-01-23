@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,4BADwB,CACxB,SAAS,AAAA,mBAAmB,AAAA,yCAAyC,CAAC,QAAQ,CAAC;EAC3E,UAAU,EAAE,KAAK;CACpB;;AAHL,AAKI,4BALwB,CAKxB,2CAA2C,CAAC;EACxC,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-settings-shipping-detail.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-shipping-detail.css"
+}

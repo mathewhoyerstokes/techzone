@@ -1,0 +1,18 @@
+.sw-cms-preview-image-slider {
+  -webkit-box-align: center;
+      -ms-flex-align: center;
+          align-items: center;
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: 20px 1fr 20px;
+      grid-template-columns: 20px 1fr 20px;
+  grid-gap: 5px;
+}
+
+.sw-cms-preview-image-slider img {
+  margin: 0;
+  display: block;
+  max-width: 100%;
+  overflow: hidden;
+}
+/*# sourceMappingURL=sw-cms-preview-image-slider.css.map */

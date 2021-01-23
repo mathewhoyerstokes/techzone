@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AACI,kCAD8B,CAC9B,eAAe,CAAC;EACZ,QAAQ,EAAE,QAAQ;CACrB;;AAHL,AAKI,kCAL8B,CAK9B,wDAAwD,CAAC;EACrD,WAAW,EAAE,GAAG;CACnB",
+    "sources": [
+        "sw-settings-custom-field-set-list.scss"
+    ],
+    "names": [],
+    "file": "sw-settings-custom-field-set-list.css"
+}

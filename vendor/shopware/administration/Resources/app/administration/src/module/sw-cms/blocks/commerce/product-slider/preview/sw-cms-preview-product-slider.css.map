@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,8BAA8B,CAAC;EAC3B,WAAW,EAAE,MAAM;EACnB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,aAAa;EACpC,QAAQ,EAAE,GAAG;EACb,OAAO,EAAE,IAAI;CAahB;;AAlBD,AAOI,8BAP0B,CAO1B,GAAG,CAAC;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;CAClB;;AAXL,AAaI,8BAb0B,CAa1B,2CAA2C,CAAC;EACxC,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,QAAQ,EAAE,MAAM;CACnB",
+    "sources": [
+        "sw-cms-preview-product-slider.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-product-slider.css"
+}

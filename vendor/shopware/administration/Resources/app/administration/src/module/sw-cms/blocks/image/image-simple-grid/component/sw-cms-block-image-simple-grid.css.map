@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,+BAA+B,CAAC;EAC5B,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,oCAAoC;EAC3D,QAAQ,EAAE,IAAI;CAajB;;AAhBD,AAKI,+BAL2B,CAK3B,gBAAgB,AAAA,UAAU,CAAC;EACvB,UAAU,EAAE,KAAK;CACpB;;AAPL,AASI,+BAT2B,CAS3B,4CAA4C,CAAC;EACzC,MAAM,EAAE,IAAI;CACf;;AAXL,AAaI,+BAb2B,CAa3B,0CAA0C,CAAC;EACvC,aAAa,EAAE,IAAI;CACtB",
+    "sources": [
+        "sw-cms-block-image-simple-grid.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-block-image-simple-grid.css"
+}

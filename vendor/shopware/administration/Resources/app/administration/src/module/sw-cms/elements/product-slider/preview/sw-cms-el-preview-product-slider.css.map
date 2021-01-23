@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iCAAiC,CAAC;EAC9B,WAAW,EAAE,MAAM;EACnB,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,aAAa;EACpC,QAAQ,EAAE,GAAG;EACb,MAAM,EAAE,IAAI;CAOf;;AAZD,AAOI,iCAP6B,CAO7B,GAAG,CAAC;EACA,MAAM,EAAE,CAAC;EACT,OAAO,EAAE,KAAK;EACd,SAAS,EAAE,IAAI;CAClB",
+    "sources": [
+        "sw-cms-el-preview-product-slider.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-el-preview-product-slider.css"
+}

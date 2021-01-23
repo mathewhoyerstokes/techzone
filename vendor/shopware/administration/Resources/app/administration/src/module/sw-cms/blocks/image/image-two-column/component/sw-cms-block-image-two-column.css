@@ -1,0 +1,12 @@
+.sw-cms-block-image-two-column {
+  display: -ms-grid;
+  display: grid;
+  -ms-grid-columns: (minmax(195px, 1fr))[auto-fit];
+      grid-template-columns: repeat(auto-fit, minmax(195px, 1fr));
+  grid-gap: 40px;
+}
+
+.sw-cms-block-image-two-column .sw-cms-el-image.is--cover {
+  min-height: 340px;
+}
+/*# sourceMappingURL=sw-cms-block-image-two-column.css.map */

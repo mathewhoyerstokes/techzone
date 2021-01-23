@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,iCAAiC,CAAC;EAC9B,OAAO,EAAE,IAAI;EACb,qBAAqB,EAAE,OAAO;EAC9B,QAAQ,EAAE,IAAI;EACd,OAAO,EAAE,IAAI;CAehB;;AAnBD,AAMI,iCAN6B,CAM7B,GAAG,CAAC;EACA,OAAO,EAAE,KAAK;EACd,UAAU,EAAE,KAAK;EACjB,KAAK,EAAE,IAAI;EACX,MAAM,EAAE,IAAI;CACf;;AAXL,AAaI,iCAb6B,CAa7B,8CAA8C,CAAC;EAC3C,MAAM,EAAE,IAAI;EACZ,OAAO,EAAE,IAAI;EACb,kBAAkB,EAAE,SAAS;EAC7B,QAAQ,EAAE,IAAI;CACjB",
+    "sources": [
+        "sw-cms-preview-image-simple-grid.scss"
+    ],
+    "names": [],
+    "file": "sw-cms-preview-image-simple-grid.css"
+}
